@@ -10,5 +10,17 @@
     "CustomPlayerData": {},
     "ExtraLandClaimAllowance": 0,
     "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "1234567890",
+    "RoleCode": "admin",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Dee",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
   }
 ]

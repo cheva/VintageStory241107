@@ -79,32 +79,24 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
-    },
-    "timeswitch": {
-      "KeyCode": 107,
-      "SecondKeyCode": null,
-      "Ctrl": false,
-      "Alt": false,
-      "Shift": false,
-      "OnKeyUp": false
     }
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 569,
-      "Y": 434
+      "X": 557,
+      "Y": 401
     },
     "playerstats": {
-      "X": -356,
-      "Y": -79
+      "X": -353,
+      "Y": -84
     },
     "environment": {
-      "X": 5,
-      "Y": 804
+      "X": 8,
+      "Y": 801
     },
     "playercharacter": {
-      "X": -3,
-      "Y": 438
+      "X": -1,
+      "Y": 434
     }
   },
   "stringSettings": {
@@ -124,8 +116,7 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:tuba,voicepitch:verylow,hairbase:dreadlocks,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:silverchalice",
-    "currentHandbookCategoryCode": "stack"
+    "lastSkinSelection": "baseskin:skin1,eyecolor:lavander,underwear:leotard,voicetype:trumpet,voicepitch:verylow,hairbase:tonsure,hairextra:none,facialexpression:smirk,mustache:mst-line20-seagull,beard:brd-braid15-triple,haircolor:ecru"
   },
   "intSettings": {
     "fpHandsFoV": 75,
@@ -139,22 +130,22 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 2,
     "ssaoQuality": 0,
-    "viewDistance": 96,
+    "viewDistance": 128,
     "fieldOfView": 66,
     "maxFps": 30,
     "particleLevel": 20,
     "maxDynamicLights": 3,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
-    "chunkVerticesUploadRateLimiter": 3,
+    "chunkVerticesUploadRateLimiter": 4,
     "masterSoundLevel": 100,
     "soundLevel": 100,
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 10,
-    "screenWidth": 1366,
-    "screenHeight": 768,
+    "musicLevel": 0,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
@@ -196,7 +187,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": false,
-    "wavingStuff": false,
+    "wavingStuff": true,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -231,16 +222,16 @@
     "noHandbookPause": false
   },
   "floatSettings": {
-    "guiScale": 0.75,
+    "guiScale": 1.125,
     "fontSize": 1.0,
     "lodBias": 0.25,
-    "lodBiasFar": 0.5,
+    "lodBiasFar": 0.71,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3326418,
+    "sepiaLevel": 0.3677826,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -258,17 +249,7 @@
   },
   "stringListSettings": {
     "multiplayerservers": [],
-    "disabledMods": [
-      "aged@1.0.4",
-      "caninae@1.0.19",
-      "capreolinae@1.1.8",
-      "casuariidae@1.0.11",
-      "dinornithidae@1.0.1",
-      "machairodontinae@1.0.12",
-      "pantherinae@1.1.12",
-      "rhinocerotidae@1.0.6",
-      "sirenia@1.0.8"
-    ],
+    "disabledMods": [],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
