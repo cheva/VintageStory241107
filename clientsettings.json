@@ -1,5 +1,46 @@
 {
-  "keyMapping": {},
+  "keyMapping": {
+    "sneak": {
+      "KeyCode": 3,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "sprint": {
+      "KeyCode": 1,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "sitdown": {
+      "KeyCode": 89,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "worldmapdialog": {
+      "KeyCode": 52,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "chatdialog": {
+      "KeyCode": 129,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    }
+  },
   "dialogPositions": {},
   "stringSettings": {
     "settingsVersion": "1.13",
@@ -46,8 +87,8 @@
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 100,
     "musicLevel": 20,
-    "screenWidth": 1280,
-    "screenHeight": 850,
+    "screenWidth": 1298,
+    "screenHeight": 897,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
@@ -56,8 +97,8 @@
     "maxAsyncQuadParticles": 80000,
     "maxAsyncCubeParticles": 80000,
     "itemCollectMode": 0,
-    "mouseSmoothing": 30,
-    "mouseSensivity": 50,
+    "mouseSmoothing": 50,
+    "mouseSensivity": 100,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
     "modelDataPoolMaxParts": 1500,
@@ -69,7 +110,7 @@
     "recordingBufferSize": 60,
     "vsyncMode": 0,
     "windowBorder": 0,
-    "guiColorsPreset": 1,
+    "guiColorsPreset": 3,
     "schematicMaxUploadSizeKb": 200
   },
   "boolSettings": {
@@ -88,7 +129,7 @@
     "showentitydebuginfo": false,
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
-    "showCoordinateHud": false,
+    "showCoordinateHud": true,
     "wavingStuff": true,
     "renderMetaBlocks": false,
     "ambientParticles": true,
@@ -119,7 +160,8 @@
     "immersiveMouseMode": false,
     "startupErrorDialog": false,
     "hasGameServer": false,
-    "showMinimapHud": false
+    "showMinimapHud": true,
+    "chatdialogvisible": false
   },
   "floatSettings": {
     "guiScale": 1.0,
@@ -131,9 +173,9 @@
     "gammaLevel": 2.2,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.36416662,
+    "sepiaLevel": 0.37257046,
     "cameraShakeStrength": 1.0,
-    "wireframethickness": 1.0,
+    "wireframethickness": 1.5,
     "previewTransparency": 0.3,
     "fpHandsYOffset": 0.0,
     "swimmingMouseSmoothing": 0.9,
