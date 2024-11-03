@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "作業可能温度： {0}°C",
+    "AlwaysWorkable": "作業可能温度： 常時",
+    "RemainingResistance": "残留抵抗： {0}",
+    "Current": "現在",
+    "Damage": "ダメージ： {0}",
+    "One": "ひとつ",
+    "Fuel": "燃料",
+    "Food": "食品",
+    "PanningDrops": "パニングからの戦利品",
+    "AvailableFood": "利用可能な食品",
+    "bomb-BlastRadius": "ブラスト半径： {0}",
+    "bomb-InjureRadius": "負傷の半径：{0}",
+    "bomb-BlastType": "ブラスト・タイプ： {0}",
+    "bomb-FuseTime": "爆弾の信管時間：{0}",
+    "HighlightMycelium": "'ハイライト菌糸体'",
+    "HighlightReinforcedBlocks": "'ブロックの補強を強調する'",
+    "Toggle": "トグル {0}"
+}

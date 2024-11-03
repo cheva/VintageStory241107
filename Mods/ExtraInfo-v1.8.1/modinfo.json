@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "side": "universal",
+    "requiredOnClient": false,
+    "requiredOnServer": false,
+    "modid": "extrainfo",
+    "name": "Extra Info",
+    "description": "Useful information for handbook, blocks, items and entities",
+    "authors": ["Craluminum2413"],
+    "contributors": ["Novocain"],
+    "version": "1.8.1",
+    "dependencies": {}
+}

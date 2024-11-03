@@ -1,0 +1,43 @@
+[
+  {
+    "op": "replace",
+    "path": "/drawtype",
+    "value": "json",
+    "file": "game:blocktypes/stone/ore-gem.json"
+  },
+  {
+    "op": "replace",
+    "path": "/shape/base",
+    "value": "juicyores:block/ore",
+    "file": "game:blocktypes/stone/ore-gem.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/all",
+    "file": "game:blocktypes/stone/ore-gem.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/cube",
+    "value": {
+      "base": "block/stone/rock/{rock}1",
+      "overlays": ["block/stone/ore/{type}1"],
+      "alternates": [
+        { "base": "block/stone/rock/{rock}1", "overlays": ["block/stone/ore/{type}2"] },
+        { "base": "block/stone/rock/{rock}1", "overlays": ["block/stone/ore/{type}3"] }
+      ]
+    },
+    "file": "game:blocktypes/stone/ore-gem.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/ore1ByType",
+    "value": {
+      "*-diamond-*": { "base": "block/stone/gem/diamond" },
+      "*-emerald-*": { "base": "block/stone/gem/emeral" },
+      "*-olivine_peridot-*": { "base": "block/stone/gem/olivine" },
+      "*": { "base": "block/stone/ungraded/{type}" }
+    },
+    "file": "game:blocktypes/stone/ore-gem.json"
+  }
+]

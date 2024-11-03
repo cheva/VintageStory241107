@@ -1,0 +1,80 @@
+{
+  "code": "furrowedland",
+  "class": "blockfurrowedland",
+  "entityclass": "befurrowedland",
+  "attributes": {
+    "renderSides": "nsew",
+    "sideShape": "block/pipe/soil/side"
+  },
+  "variantgroups": [
+    {
+      "code": "type",
+      "states": [ "soil", "high", "low", "medium", "verylow", "compost" ]
+    },
+    {
+      "code": "cover",
+      "states": [ "free" ]
+    }
+  ],
+  "fertilityByType": {
+    "*-verylow-free": 5,
+    "*-low-free": 25,
+    "*-medium-free": 50,
+    "*-compost-free": 65,
+    "*-high-free": 80,
+    "*": 5
+  },
+  "creativeinventory": { "general": [ "" ] },
+  "shapebytype": {
+    "*": { "base": "block/pipe/soil/base" }
+  },
+  "texturesbytype": {
+    "*-soil-*": { "fertcompost": { "base": "game:block/soil/fertcompost" } },
+    "*": { "fertcompost": { "base": "game:block/soil/fert{type}" } }
+  },
+  "drawtypeByType": {
+    "*-free": "JSON"
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "sidesolid": {
+    "all": false
+  },
+  "renderPass": "BlendNoCull",
+  "faceCullMode": "MergeMaterial",
+  "blockmaterial": "Soil",
+  "replaceable": 400,
+  "resistance": 1.5,
+  "drops": [],
+  "lightAbsorption": 0,
+
+  "vertexFlags": {
+    "zOffset": 2,
+    "shiny": false
+  },
+  "sounds": {
+    "place": "game:block/dirt",
+    "break": "game:block/dirt",
+    "hit": "game:block/dirt",
+    "walk": "game:walk/grass"
+  },
+  "collisionBoxes": [
+    {
+      "x1": 0,
+      "y1": 0,
+      "z1": 0,
+      "x2": 1,
+      "y2": 0.875,
+      "z2": 1
+    },
+    {
+      "x1": 0,
+      "y1": 0.875,
+      "z1": 0,
+      "x2": 1,
+      "y2": 1,
+      "z2": 1
+    }
+  ]
+}

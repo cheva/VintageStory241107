@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/drawtype",
+    "value": "json",
+    "file": "game:blocktypes/stone/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/shape/alternates",
+    "value": [
+      { "rotateXByType": { "@.*-(limonite|hematite|quartz_.*|pentlandite)-.*": 0, "*": 90 } },
+      { "rotateYByType": { "@.*-(limonite|hematite|quartz_.*|pentlandite)-.*": 0, "*": 90 } },
+      { "rotateZByType": { "@.*-(limonite|hematite|quartz_.*|pentlandite)-.*": 0, "*": 90 } }
+    ],
+    "file": "game:blocktypes/stone/ore-graded.json"
+  },
+  {
+    "op": "replace",
+    "path": "/shape/base",
+    "value": "juicyores:block/ore",
+    "file": "game:blocktypes/stone/ore-graded.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/all",
+    "file": "game:blocktypes/stone/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/cube",
+    "value": {
+      "base": "block/stone/rock/{rock}1",
+      "overlays": ["block/stone/ore/{type}1"],
+      "alternates": [
+        { "base": "block/stone/rock/{rock}1", "overlays": ["block/stone/ore/{type}2"] },
+        { "base": "block/stone/rock/{rock}1", "overlays": ["block/stone/ore/{type}3"] }
+      ]
+    },
+    "file": "game:blocktypes/stone/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/ore1ByType",
+    "value": {
+      "@.*-quartz_nativegold-.*": { "base": "item/resource/nugget/nativegold" },
+      "@.*_nativesilver-.*": { "base": "item/resource/nugget/nativesilver" },
+      "*": { "base": "item/resource/nugget/{type}" }
+    },
+    "file": "game:blocktypes/stone/ore-graded.json"
+  }
+]

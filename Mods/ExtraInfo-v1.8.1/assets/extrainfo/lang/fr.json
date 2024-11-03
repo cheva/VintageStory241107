@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Température d'utilisation: {0}°C",
+    "AlwaysWorkable": "Température d'utilisation: Toujours",
+    "RemainingResistance": "Résistance restante: {0}",
+    "Current": "Actuel",
+    "Damage": "Dommages: {0}",
+    "One": "Un",
+    "Fuel": "Combustible",
+    "Food": "Nourriture",
+    "PanningDrops": "Le butin de l'orpaillage",
+    "AvailableFood": "Aliments disponibles",
+    "bomb-BlastRadius": "Rayon d'explosion: {0}",
+    "bomb-InjureRadius": "Rayon des dommages: {0}",
+    "bomb-BlastType": "Type d'explosion: {0}",
+    "bomb-FuseTime": "Temps de fusion: {0}",
+    "HighlightMycelium": "'Mise en évidence du mycélium'",
+    "HighlightReinforcedBlocks": "'Mise en évidence des blocs renforcés'",
+    "Toggle": "Basculer {0}"
+}

@@ -1,0 +1,39 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+	},
+	"elements": [
+		{
+			"name": "Face",
+			"from": [ 0.0, 0.0, 0.0 ], 
+			"to": [ 22.6, 22.6, 1.0 ], 
+			"rotationOrigin": [ 0.0, 0.0, 0.0 ],
+			"rotationY": -45.0,
+			"climateColorMap": "climatePlantTint",
+			"seasonColorMap": "seasonalGrass",
+			"shade": false,
+			"faces": {
+				"north": { "texture": "#grass", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "windMode": [0,2,2,0], "windData": [0,1,1,0] }
+			}
+		},
+		{
+			"name": "Face2",
+			"from": [ 0.0, 0.0, 15.0 ], 
+			"to": [ 22.6, 22.6, 16.0 ], 
+			"rotationOrigin": [ 0.0, 0.0, 16.0 ],
+			"rotationY": 45.0,
+			"climateColorMap": "climatePlantTint",
+			"seasonColorMap": "seasonalGrass",
+			"shade": false,
+			"faces": {
+				"south": { "texture": "#grass", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "windMode": [0,0,2,2], "windData": [0,0,1,1] }
+			}
+		}
+	]}

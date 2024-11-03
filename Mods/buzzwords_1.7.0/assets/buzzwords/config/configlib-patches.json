@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "file": "buzzwords.json",
+  "settings": {
+    "integer": {
+      "BUZZRADIUS": {
+        "name": "BuzzRadius",
+        "ingui": "buzzwords:BuzzRadius",
+        "weight": 1,
+        "comment": "buzzwords:BuzzRadius-Comment",
+
+        "default": 12,
+        "range": {
+          "min": 4,
+          "max": 40
+        }
+      },
+      "BUZZFONTSIZE": {
+        "name": "BuzzFontSize",
+        "ingui": "buzzwords:BuzzFontSize",
+        "weight": 2,
+        "comment": "buzzwords:BuzzFontSize-Comment",
+
+        "default": 20,
+        "range": {
+          "min": 10,
+          "max": 40
+        }
+      }
+    },
+    "string": {
+      "BUZZFONTCOLOR": {
+        "name": "BuzzFontColor",
+        "ingui": "buzzwords:BuzzFontColor",
+        "weight": 3,
+        "comment": "buzzwords:BuzzFontColor-Comment",
+        "default": "yellow",
+        "values": [
+          "yellow",
+          "orange",
+          "fushsia",
+          "tomato",
+          "aqua",
+          "lime"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+    "code": "seeds",
+	"class": "wildgrass.ItemGrassSeeds",
+    "maxstacksize": 64,
+    "variantgroups": [
+        {
+            "code": "type",
+            "states": [
+                "switchgrass",
+				"rush-common",
+				"bushgrass",
+				"ryegrass-perennial",
+				"bluegrass",
+				"fescue-meadow",
+				"buttongrass"
+            ]
+        }
+    ],
+
+	"attributes": {
+		"seedForByType": {
+			"seeds-switchgrass": "wildgrass:switchgrass-0-free",
+			"seeds-rush-common": "wildgrass:rush-common-0-free",
+			"seeds-bushgrass": "wildgrass:bushgrass-0-free",
+			"seeds-ryegrass-perennial": "wildgrass:ryegrass-perennial-0-free",
+			"seeds-bluegrass": "wildgrass:bluegrass-0-free",
+			"seeds-fescue-meadow": "wildgrass:fescue-meadow-0-free",
+			"seeds-buttongrass": "wildgrass:buttongrass-0-free"
+		},
+		"plantContainable": {
+			"largeContainerByType": {
+				"seeds-switchgrass": {
+					"shape": { "base": "block/switchgrass/switchgrass-potted" },
+					"textures": {
+						"grass": { "base": "block/plant/switchgrass/switchgrass-4" },
+						"flowers": { "base": "block/plant/switchgrass/switchgrass-flowers" }
+					}
+				},
+				"seeds-rush-common": {
+					"shape": { "base": "block/rush/rush-potted"},
+					"textures": {
+						"grass": { "base": "block/plant/common-rush/common-rush-3"},
+						"flowers": { "base": "block/plant/common-rush/common-rush-flowers"}
+					}
+				},
+				"seeds-bushgrass": {
+					"shape": { "base": "block/bushgrass/bushgrass-potted"},
+					"textures": {
+						"grass": { "base": "block/plant/bushgrass/bushgrass-3"},
+						"culm": { "base": "block/plant/bushgrass/bushgrass-4-culm"},
+						"flowers": { "base": "block/plant/bushgrass/bushgrass-4-flowers"}
+					}
+				},
+				"seeds-ryegrass-perennial": {
+					"shape": { "base": "block/ryegrass/ryegrass-potted"},
+					"textures": {
+						"grass": { "base": "block/plant/perennial-ryegrass/perennial-ryegrass-3"},
+						"flowers": { "base": "block/plant/perennial-ryegrass/perennial-ryegrass-flowers"}
+					}
+				},
+				"seeds-bluegrass": {
+					"shape": { "base": "block/bluegrass/bluegrass-potted"},
+					"textures": {
+						"grass": { "base": "block/plant/bluegrass/bluegrass-3"},
+						"flowers": { "base": "block/plant/bluegrass/bluegrass-flowers"}
+					}
+				},
+				"seeds-fescue-meadow": {
+					"shape": { "base": "block/ryegrass/ryegrass-potted"},
+					"textures": {
+						"grass": { "base": "block/plant/meadow-fescue/meadow-fescue-3"},
+						"flowers": { "base": "block/plant/meadow-fescue/meadow-fescue-flowers"}
+					}
+				},
+				"seeds-buttongrass": {
+					"shape": { "base": "block/buttongrass/buttongrass-potted"},
+					"textures": {
+						"grass": { "base": "block/plant/buttongrass/buttongrass-3"},
+						"flowers": { "base": "block/plant/buttongrass/buttongrass-flowers"}
+					}
+				},
+			}
+		}
+	},
+
+    "shape": { "base": "game:item/resource/seeds/seedbag" },
+    "textures": {
+        "seed": { "base": "item/seeds/{type}" }
+    },
+
+    "creativeinventory": { "general": ["*"], "items": ["*"] },
+
+	materialDensity: 450,
+	guiTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: 159, y: 148, z: 0 },
+		origin: { x: 0.53, y: 0.37, z: 0.5 },
+		scale: 1.99
+	},
+	fpHandTransform: {
+		rotation: { x: 54, y: 99, z: -30 },
+		scale: 1.34
+	},
+	tpHandTransform: {
+		translation: { x: -1.67, y: -1.25, z: -0.8 },
+		rotation: { x: 70, y: 11, z: -65 },
+		scale: 0.41
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0.2, z: 0 },
+		rotation: { x: -4, y: 8, z: 0 },
+		origin: { x: 0.5, y: 0.5, z: 0.5299 },
+		scale: 1.92
+	}
+}

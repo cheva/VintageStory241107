@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "name": "Juicy Ores",  
+  "modid": "juicyores",
+  "description": "\tReplaces\n\t\tore\n\t\t\tblock's\n\t\t\t\tmodel",
+  "authors": ["Craluminum2413"],
+  "version": "1.0.0"
+  "dependencies": {}
+}

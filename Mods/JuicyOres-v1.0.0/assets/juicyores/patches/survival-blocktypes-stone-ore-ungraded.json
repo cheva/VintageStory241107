@@ -1,0 +1,41 @@
+[
+  {
+    "op": "replace",
+    "path": "/drawtype",
+    "value": "json",
+    "file": "game:blocktypes/stone/ore-ungraded.json"
+  },
+  {
+    "op": "replace",
+    "path": "/shape/base",
+    "value": "juicyores:block/ore",
+    "file": "game:blocktypes/stone/ore-ungraded.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/all",
+    "file": "game:blocktypes/stone/ore-ungraded.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/cube",
+    "value": {
+      "base": "block/stone/rock/{rock}1",
+      "overlays": ["block/stone/ore/{type}1"],
+      "alternates": [
+        { "base": "block/stone/rock/{rock}1", "overlays": ["block/stone/ore/{type}2"] },
+        { "base": "block/stone/rock/{rock}1", "overlays": ["block/stone/ore/{type}3"] }
+      ]
+    },
+    "file": "game:blocktypes/stone/ore-ungraded.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/ore1ByType",
+    "value": {
+      "*-flint-*": { "base": "block/stone/flint" },
+      "*": { "base": "item/resource/ungraded/{type}" }
+    },
+    "file": "game:blocktypes/stone/ore-ungraded.json"
+  }
+]

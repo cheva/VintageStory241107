@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Temperatura trabalhável: {0}°C",
+    "AlwaysWorkable": "Temperatura trabalhável: Sempre",
+    "RemainingResistance": "Resistência restante: {0}",
+    "Current": "Atual",
+    "Damage": "Dano: {0}",
+    "One": "Um",
+    "Fuel": "Combustível",
+    "Food": "Comida",
+    "PanningDrops": "Saque de Exploração",
+    "AvailableFood": "Comida disponível",
+    "bomb-BlastRadius": "Raio da explosão: {0}",
+    "bomb-InjureRadius": "Raio de ferimentos: {0}",
+    "bomb-BlastType": "Tipo de explosão: {0}",
+    "bomb-FuseTime": "Tempo de detonação: {0}",
+    "HighlightMycelium": "'Realce de micélio'",
+    "HighlightReinforcedBlocks": "'Realce de blocos reforçados'",
+    "Toggle": "Alternar {0}"
+}

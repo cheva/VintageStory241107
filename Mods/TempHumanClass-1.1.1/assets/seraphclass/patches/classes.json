@@ -1,0 +1,12 @@
+[
+  {
+    "file": "game:config/characterclasses",
+    "op": "add",
+    "path": "/5",
+    "value": {
+      "code": "temphuman",
+      "traits": ["clothier", "merciless", "tinkerer", "improviser", "bowyer", "focused", "resourceful", "fleetfooted", "forager", "pilferer", "furtive", "precise", "technical", "soldier", "hardy", "mender"],
+      "gear": []
+    }
+  }
+]

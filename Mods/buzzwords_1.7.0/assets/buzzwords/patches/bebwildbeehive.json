@@ -1,0 +1,24 @@
+[
+  {
+    "file": "game:blocktypes/wax/wildbeehive",
+    "op": "add",
+    "side": "server",
+    "path": "/entityBehaviors",
+    "value": [
+      {
+        "name": "BuzzBeehive"
+      }
+    ]
+  },
+  {
+    "file": "game:blocktypes/wax/wildbeehive-inlog",
+    "op": "add",
+    "side": "server",
+    "path": "/entityBehaviors",
+    "value": [
+      {
+        "name": "BuzzBeehive"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+    {   "file": "game:itemtypes/tool/scythe",
+        "path": "/attributes/codePrefixes/-",
+        "op": "addeach",
+        "value": [
+            "switchgrass",
+            "rush-common",
+            "ryegrass-perennial",
+            "bluegrass",
+            "bushgrass",
+            "buttongrass",
+            "fescue-meadow"
+        ]
+    }
+]

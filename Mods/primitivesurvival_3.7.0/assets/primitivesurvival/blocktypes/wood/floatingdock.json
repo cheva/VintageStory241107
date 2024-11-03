@@ -1,0 +1,172 @@
+{
+  "code": "floatingdock",
+  "class": "blockfloatingdock",
+  "entityclass": "befloatingdock",
+  "attributes": {
+    "renderSides": "nsew",
+    "sideShape": "block/floatingdock/side",
+    "baseShape": "block/floatingdock/base"
+  },
+  "liquidSelectable": true,
+  "behaviors": [
+    { "name": "RightClickPickupFloatingDock" }
+  ],
+  "sidesolid": {
+    "all": false
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "heldTpIdleAnimation": "holdunderarm",
+  "creativeinventory": {
+    "general": [ "*-ns" ],
+    "primitive": [ "*-ns" ]
+  },
+  "variantgroups": [
+    {
+      "code": "wood",
+      "states": [
+        "birch",
+        "oak",
+        "maple",
+        "pine",
+        "acacia",
+        "kapok",
+        "baldcypress",
+        "larch",
+        "redwood",
+        "ebony",
+        "walnut",
+        "purpleheart"
+      ]
+    },
+    {
+      "code": "orientation",
+      "states": [ "ns", "we" ]
+    }
+  ],
+  "drops": [
+    {
+      "type": "block",
+      "code": "primitivesurvival:floatingdock-{wood}-ns",
+      "quantity": { "avg": 1 }
+    }
+  ],
+  "shapebytype": {
+    "*-ns": {
+      "base": "block/floatingdock/full",
+      "rotateY": 90
+    },
+    "*-we": {
+      "base": "block/floatingdock/full",
+      "rotateY": 0
+    }
+  },
+  "textures": {
+
+    "0": {
+      "base": "game:block/wood/debarked/{wood}"
+    },
+    "1": {
+      "base": "game:item/resource/rope"
+    }
+  },
+  "blockmaterial": "Wood",
+  "replaceable": 550,
+  "resistance": 2,
+  "lightAbsorption": 0,
+  "combustibleProps": {
+    "burnTemperature": 600,
+    "burnDuration": 40
+  },
+  "fpHandTransform": {
+    "translation": {
+      "x": 0,
+      "y": -0.05,
+      "z": 0
+    },
+    "rotation": {
+      "x": -90,
+      "y": 73,
+      "z": 174
+    },
+    "origin": {
+      "x": 0.34,
+      "y": -0.4,
+      "z": 1.47
+    },
+    "scale": 1.4
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": -45,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": -0.1,
+      "z": 0.5
+    },
+    "scale": 4.19
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.3,
+      "y": -0.4,
+      "z": 0
+    },
+    "rotation": {
+      "x": 116,
+      "y": -22,
+      "z": 163
+    },
+    "origin": {
+      "x": 0,
+      "y": 0.25,
+      "z": 0
+    },
+    "scale": 0.94
+  },
+  "guiTransform": {
+    "rotation": {
+      "x": -22.6,
+      "y": 40,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.325,
+      "z": 0.5
+    },
+    "scale": 1.05
+  },
+  "collisionBox": {
+      "x1": 0,
+      "y1": -0.3,
+      "z1": 0,
+      "x2": 1,
+      "y2": 0,
+      "z2": 1
+  },
+  "selectionBox": {
+      "x1": 0,
+      "y1": 0,
+      "z1": 0,
+      "x2": 1,
+      "y2": 0.15,
+      "z2": 1
+  },
+  "sounds": {
+    "place": "game:block/planks",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  },
+  "materialDensity": 400
+}   

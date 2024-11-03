@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "rifteye",
+    "name": "Rifteye",
+    "authors": [
+        "Th3Dilli"
+    ],
+    "description": "Adds player management and inventory inspection GUI",
+    "version": "0.3.8",
+    "dependencies": {}
+}

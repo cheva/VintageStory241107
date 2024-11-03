@@ -1,0 +1,105 @@
+{
+	code: "fbcs",
+	//class: "ItemWearable",  - якщо хочу зробити тепло й зношення як у одяга
+	enabled: true,
+	maxstacksize: 1,
+	handbook: {
+			groupBy: [ "fbcs-shkira-*-*", "fbcs-polotno-*-*" ]
+		},
+	variantgroups: [
+		{ code: "mat", states: [ "shkira", "polotno" ] },
+		{ code: "material", states: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"] },
+		{ code: "variant", states: [ "mini", "tall", "basic", "super", "mega", "ultra" ] }
+	],
+	attributes: {
+		//warmth: 3, //- додавання тепла
+		wearableAttachment: true,
+		attachableToEntity: {
+			categoryCodeByType: {
+				"*": "backpack"
+			},
+			attachedShapeBySlotCode: {
+				"*": { base: "fendragonbcs:item/backpack/attached/{variant}" }
+			}
+		},
+		backpack: {
+			quantitySlotsByType: {
+				"fbcs-*-*-mini": 10,
+				"fbcs-*-*-tall": 12,
+				"fbcs-*-*-basic": 14,
+				"fbcs-*-*-super": 16,
+				"fbcs-*-*-mega": 18,
+				"fbcs-*-*-ultra": 20
+			},
+			slotBgColorByType: {
+				"fbcs-*-*-mini": "#FDFDFD",		//сірий, білий
+				"fbcs-*-*-tall": "#A9DFBF",		//зелений
+				"fbcs-*-*-basic": "#D4E6F1",	//синій
+				"fbcs-*-*-super": "#F4ECF7",	//фіолетовий
+				"fbcs-*-*-mega": "#F2D7D5",		//червоний
+				"fbcs-*-*-ultra": "#FAD7A0"		//помаранчевий
+			}
+		},
+		/*groundStorageTransform: { 
+			translation: { x: 0, y: -0.03, z: 0 }, 
+			origin: { x: 0, y: 0, z: 0 }
+		},*/
+	},
+	behaviors: [
+		{ name: "GroundStorable", properties: { layout: "SingleCenter", collisionBox: { x1: 0.35, y1: 0, z1: 0.35, x2: 0.65, y2: 0.55, z2: 0.65 } } },
+		{ name: "HeldBag" }
+	],
+	shapeByType: {
+		"*": { base: "fendragonbcs:item/backpack/{variant}" }
+	},
+	texturesByType: {
+		"fbcs-shkira-*-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/shkira" },
+			"material": { base: "game:block/metal/ingot/{material}" }
+		},
+		"fbcs-polotno-*-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/polotno" },
+			"material": { base: "game:block/metal/ingot/{material}" }
+		},	
+		"*": {
+			"material": { base: "game:block/metal/ingot/{material}" }
+		}
+	},
+	lightHsvbyType: {
+		"fbcs-*-*-mini": [ 4, 4, 16 ],
+		"fbcs-*-*-tall": [ 7, 3, 18 ],
+		"fbcs-*-*-basic": [ 7, 3, 20 ],
+		"fbcs-*-*-super": [ 7, 3, 22 ],
+		"fbcs-*-*-mega": [ 7, 3, 24 ],
+		"fbcs-*-*-ultra": [ 7, 3, 26 ]
+	},
+	storageFlags: 2,
+	creativeinventory: { 
+		"general": ["fbcs-shkira-copper-*", "fbcs-polotno-copper-*"], 
+		"items": ["fbcs-shkira-copper-*", "fbcs-polotno-copper-*"], 
+		"FendragonBCS": [ "fbcs-shkira-*-*", "fbcs-polotno-*-*" ] 
+	},
+	guiTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: -20, y: 21, z: 180 },
+		origin: { x: 0.53, y: 0.35, z: 0.5 },
+		scale: 2.3,
+		rotate: true
+	},
+	fpHandTransform: {
+		translation: { x: 0, y: 0, z: 0.2 },
+		rotation: { x: 20, y: -73, z: 10 },
+		scale: 2.5
+	},
+	tpHandTransform: {
+		translation: { x: -0.66, y: -0.5, z: -0.45 },
+		rotation: { x: -89, y: 67, z: -91 },
+		scale: 0.86
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: -180, y: 50, z: -180 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 5
+	}
+}

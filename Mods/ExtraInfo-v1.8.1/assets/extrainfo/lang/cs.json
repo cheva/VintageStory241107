@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Pracovní teplota: {0}°C",
+    "AlwaysWorkable": "Pracovní teplota: Vždy použitelná",
+    "RemainingResistance": "Zbývající odpor: {0}",
+    "Current": "Aktuální",
+    "Damage": "Poškození: {0}",
+    "One": "Jeden",
+    "Fuel": "Palivo",
+    "Food": "Jídlo",
+    "PanningDrops": "Kořist z rýžování",
+    "AvailableFood": "Dostupné jídlo",
+    "bomb-BlastRadius": "Poloměr výbuchu: {0}",
+    "bomb-InjureRadius": "Poloměr zranění: {0}",
+    "bomb-BlastType": "Typ výbuchu: {0}",
+    "bomb-FuseTime": "Čas pojistky: {0}",
+    "HighlightMycelium": "'Zvýraznit mycelium'",
+    "HighlightReinforcedBlocks": "'Zvýraznění vyztužených bloků'",
+    "Toggle": "Přepínač {0}"
+}

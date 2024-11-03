@@ -1,0 +1,8 @@
+{
+  "BuzzRadius": "Buzz Radius",
+  "BuzzRadius-Comment": "The distance you need to be from a hive before the \"beedar\" kicks in.",
+  "BuzzFontSize": "Buzz Font Size",
+  "BuzzFontSize-Comment": "The size of the buzz message.",
+  "BuzzFontColor": "Buzz Font Color",
+  "BuzzFontColor-Comment": "The color of the buzz message."
+}

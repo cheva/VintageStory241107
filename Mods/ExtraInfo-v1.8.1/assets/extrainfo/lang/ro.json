@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Temperatura de lucru: {0}°C",
+    "AlwaysWorkable": "Temperatura de lucru: Întotdeauna",
+    "RemainingResistance": "Rezistența rămasă: {0}",
+    "Current": "Curent",
+    "Damage": "Daune: {0}",
+    "One": "Unu",
+    "Fuel": "Combustibil",
+    "Food": "Alimente",
+    "PanningDrops": "Pradă din căutarea aurului",
+    "AvailableFood": "Alimente disponibile",
+    "bomb-BlastRadius": "Raza de explozie: {0}",
+    "bomb-InjureRadius": "Raza de rănire a exploziei: {0}",
+    "bomb-BlastType": "Tip de explozie: {0}",
+    "bomb-FuseTime": "Timpul de aprindere: {0}",
+    "HighlightMycelium": "'Evidențiați miceliul'",
+    "HighlightReinforcedBlocks": "'Evidențiați blocurile ranforsate'",
+    "Toggle": "Comutați {0}"
+}

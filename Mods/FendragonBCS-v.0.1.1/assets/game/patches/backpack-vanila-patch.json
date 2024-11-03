@@ -1,0 +1,10 @@
+[
+	{
+_Comment: "Патч на ванільний рюкзак на 6 й 8 слотів та їх відображення",
+	"enabled": true,
+	"file": "game:itemtypes/wearable/bag/backpack.json",
+	"op": "remove",
+	"path": "/attributes/attachableToEntity/attachedShape",
+	"value": null
+	}
+]

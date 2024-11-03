@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Temperatura pracy: {0}°C",
+    "AlwaysWorkable": "Temperatura pracy: Zawsze",
+    "RemainingResistance": "Pozostały opór: {0}",
+    "Current": "Aktualny",
+    "Damage": "Uszkodzenia: {0}",
+    "One": "Jeden",
+    "Fuel": "Paliwo",
+    "Food": "Żywność",
+    "PanningDrops": "Łup z wypłukiwania rud",
+    "AvailableFood": "Dostępna żywność",
+    "bomb-BlastRadius": "Promień wybuchu: {0}",
+    "bomb-InjureRadius": "Promień obrażeń: {0}",
+    "bomb-BlastType": "Typ wybuchu: {0}",
+    "bomb-FuseTime": "Czas zapalnika bomby: {0}",
+    "HighlightMycelium": "'Podświetlona grzybnia'",
+    "HighlightReinforcedBlocks": "'Podświetlone wzmocnione bloki'",
+    "Toggle": "Przełącz {0}"
+}

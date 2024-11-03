@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Temperatur som kan användas: {0}°C",
+    "AlwaysWorkable": "Temperatur som kan användas: Alltid",
+    "RemainingResistance motstånd": "Återstående motstånd: {0}",
+    "Current": "Ström",
+    "Damage": "Skada: {0}",
+    "One": "En",
+    "Fuel": "Bränsle",
+    "Food": "Mat",
+    "PanningDrops": "Utbyte från panorering",
+    "AvailableFood": "Tillgänglig mat",
+    "bomb-BlastRadius": "Sprängningsradie: {0}",
+    "bomb-InjureRadius": "Radie för skador: {0}",
+    "bomb-BlastType": "Typ av explosion: {0}",
+    "bomb-FuseTime": "Säkringstid: {0}",
+    "HighlightMycelium": "'Framhävning av mycel'",
+    "HighlightReinforcedBlocks": "'Markering av förstärkta block'",
+    "Toggle": "Växla {0}"
+}

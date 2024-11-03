@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CarryOn/1.8.0-pre.1": {
+        "runtime": {
+          "CarryOn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarryOn/1.8.0-pre.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

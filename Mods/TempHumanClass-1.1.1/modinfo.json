@@ -1,0 +1,12 @@
+{
+  "Type": "content",
+  "Name": "TempHumanClass",
+  "Version": "1.1.1",
+  "Description": "Everything in one little human ;3",
+  "Website": "",
+  "ModID": "null",
+  "Authors": [
+    "Pimpus Gruby-Kojot"
+  ],
+  "dependencies": {}
+}

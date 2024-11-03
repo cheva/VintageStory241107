@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Lakebla Temperaturo: {0}°C",
+    "AlwaysWorkable": "Lakebla Temperaturo: Ĉiam funkciebla",
+    "RemainingResistance": "Restanta Rezisto: {0}",
+    "Current": "Nuna",
+    "Damage": "Difekto: {0}",
+    "One": "Unu",
+    "Fuel": "Fuelo",
+    "Food": "Manĝaĵo",
+    "PanningDrops": "Prirabado De Panning",
+    "AvailableFood": "Havebla Manĝaĵo",
+    "bomb-BlastRadius": "Radio de eksplodo: {0}",
+    "bomb-InjureRadius": "Radio de vundoj: {0}",
+    "bomb-BlastType": "Tipo de eksplodo: {0}",
+    "bomb-FuseTime": "Tempo de Fuzo: {0}",
+    "HighlightMycelium": "'Elstarigado de Micelio'",
+    "HighlightReinforcedBlocks": "'Elstarigado de Plifortigitaj Blokoj'",
+    "Toggle": "Baskuli {0}"
+}

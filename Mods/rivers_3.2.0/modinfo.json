@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "rivers",
+    "name": "Rivers",
+    "authors": [
+        "sneeze"
+    ],
+    "description": "Standalone version of rivers and waterwheels.",
+    "version": "3.2.0",
+    "dependencies": {}
+}

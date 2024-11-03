@@ -1,0 +1,146 @@
+[
+  {
+    "ingredientPattern": "WW",
+    "ingredients": {
+      "W": {
+        "type": "block",
+        "code": "game:wildvine-section-*",
+        "quantity": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "W",
+    "ingredients": {
+      "W": {
+        "type": "block",
+        "code": "game:wildvine-end-*",
+        "quantity": 3
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "W",
+    "ingredients": {
+      "W": {
+        "type": "block",
+        "code": "game:wildvine-tropical-section-*",
+        "quantity": 2
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "W",
+    "ingredients": {
+      "W": {
+        "type": "block",
+        "code": "game:wildvine-tropical-end-*",
+        "quantity": 3
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "L",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 3
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "L",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "game:papyrustops",
+        "quantity": 3
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "K,R",
+    "enabled": true,
+    "ingredients": {
+      "K": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      },
+      "R": {
+        "type": "item",
+        "code": "game:rope",
+        "quantity": 1
+      }
+    },
+    "name": "ropetocordage",
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "primitivesurvival:cordage",
+      "quantity": 2
+    }
+  },
+  {
+    "ingredientPattern": "C",
+    "shapeless": true,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "primitivesurvival:cordage",
+        "quantity": 2
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "game:rope",
+      "quantity": 1
+    }
+  }
+]

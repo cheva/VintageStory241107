@@ -1,0 +1,19 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Vanilla Terrain Reformed",
+  "Version": "4.0.4",
+  "NetworkVersion": null,
+  "Description": "",
+  "Website": "",
+  "CoreMod": false,
+  "ModID": "vtr",
+  "Authors": [
+    "Nephelangelo"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "dependencies": {}
+}

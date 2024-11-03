@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "작업 가능 온도: {0}°C",
+    "AlwaysWorkable": "작업 가능 온도: 상시",
+    "RemainingResistance": "잔류 저항: {0}",
+    "Current": "현재",
+    "Damage": "손상: {0}",
+    "One": "하나",
+    "Fuel": "연료",
+    "Food": "식품",
+    "PanningDrops": "패닝에서 얻은 전리품",
+    "AvailableFood": "이용 가능한 식품",
+    "bomb-BlastRadius": "발파 반경: {0}",
+    "bomb-InjureRadius": "부상 반경: {0}",
+    "bomb-BlastType": "블라스팅 타입: {0}",
+    "bomb-FuseTime": "폭탄의 신관 시간: {0}",
+    "HighlightMycelium": "'하이라이트 균사체'",
+    "HighlightReinforcedBlocks": "'블록 보강을 강조 표시합니다'",
+    "Toggle": "토글 {0}"
+}

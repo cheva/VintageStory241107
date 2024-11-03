@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Радна температура: {0}°Ц",
+    "AlwaysWorkable": "Радна температура: Увек",
+    "RemainingResistance": "Преостали отпор: {0}",
+    "Current": "Тренутни",
+    "Damage": "Оштећење: {0}",
+    "One": "Један",
+    "Fuel": "Гориво",
+    "Food": "Храна",
+    "PanningDrops": "Плен од испирања руде",
+    "AvailableFood": "Доступна храна",
+    "bomb-BlastRadius": "Радијус експлозије: {0}",
+    "bomb-InjureRadius": "Радијус повреда: {0}",
+    "bomb-BlastType": "Тип експлозије: {0}",
+    "bomb-FuseTime": "Време фитиља: {0}",
+    "HighlightMycelium": "'Истицање мицелијума'",
+    "HighlightReinforcedBlocks": "'Истицање ојачаних блокова'",
+    "Toggle": "Укључи {0}"
+}

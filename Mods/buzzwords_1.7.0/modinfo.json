@@ -1,0 +1,9 @@
+{
+  "type": "code",
+  "modid": "buzzwords",
+  "name": "Buzzwords",
+  "authors": [ "SpearAndFang" ],
+  "description": "Text alert when a beehive is nearby",
+  "version": "1.7.0",
+  "dependencies": {}
+}

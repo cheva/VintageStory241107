@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Werkbare temperatuur: {0}°C",
+    "AlwaysWorkable": "Werkbare temperatuur: Altijd",
+    "RemainingResistance": "Resterende weerstand: {0}",
+    "Current": "Huidige",
+    "Damage": "Schade: {0}",
+    "One": "Een",
+    "Fuel": "Brandstof",
+    "Food": "Voedsel",
+    "PanningDrops": "Buit uit goudwinning",
+    "AvailableFood": "Beschikbaar voedsel",
+    "bomb-BlastRadius": "Straal van de ontploffing: {0}",
+    "bomb-InjureRadius": "Straal van explosieletsel: {0}",
+    "bomb-BlastType": "Ontploffingstype: {0}",
+    "bomb-FuseTime": "Fusing tijd van de bom: {0}",
+    "HighlightMycelium": "'Markeer mycelium'",
+    "HighlightReinforcedBlocks": "'Markeer versterkte blokken'",
+    "Toggle": "Schakelaar {0}"
+}

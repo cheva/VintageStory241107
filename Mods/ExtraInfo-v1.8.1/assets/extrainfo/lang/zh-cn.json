@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "可操作温度： {0}°C",
+    "AlwaysWorkable": "可操作温度： 始终",
+    "RemainingResistance": "剩余电阻： {0}",
+    "Current": "当前",
+    "Damage": "损坏： {0}",
+    "One": "一个",
+    "Fuel": "燃料",
+    "Food": "食品",
+    "PanningDrops": "淘金的战利品",
+    "AvailableFood": "可用食品",
+    "bomb-BlastRadius": "爆炸半径： {0}",
+    "bomb-InjureRadius": "受伤半径：{0}",
+    "bomb-BlastType": "爆炸类型： {0}",
+    "bomb-FuseTime": "炸弹引信时间：{0}",
+    "HighlightMycelium": "'亮点菌丝体'",
+    "HighlightReinforcedBlocks": "'突出显示块加固'",
+    "Toggle": "切换 {0}"
+}

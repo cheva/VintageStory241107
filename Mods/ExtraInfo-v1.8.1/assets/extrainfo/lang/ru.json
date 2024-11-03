@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Рабочая температура: {0}°C",
+    "AlwaysWorkable": "Рабочая температура: Всегда",
+    "RemainingBlockResistance": "Сопротивления осталось: {0}",
+    "Current": "Текущий",
+    "Damage": "Урон: {0}",
+    "One": "Одно",
+    "Fuel": "Топливо",
+    "Food": "Еда",
+    "PanningDrops": "Добыча с панорамирования",
+    "AvailableFood": "Доступная еда",
+    "bomb-BlastRadius": "Радиус взрыва: {0}",
+    "bomb-InjureRadius": "Радиус поражения: {0}",
+    "bomb-BlastType": "Тип взрыва: {0}",
+    "bomb-FuseTime": "Время горения запала: {0}",
+    "HighlightMycelium": "'Подсвечивание мицелия'",
+    "HighlightReinforcedBlocks": "'Подсвечивание укрепленных блоков'",
+    "Toggle": "Переключить {0}"
+}

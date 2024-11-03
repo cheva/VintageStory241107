@@ -1,0 +1,19 @@
+{
+    "WorkableTemperature": "Verarbeitbare Temperatur: {0}°C",
+    "AlwaysWorkable": "Verarbeitbare Temperatur: Immer verarbeitbar",
+    "RemainingResistance": "Verbleibende Resistenz: {0}",
+    "Current": "Aktuell",
+    "Damage": "Schaden: {0}",
+    "One": "Eine",
+    "Fuel": "Kraftstoff",
+    "Food": "Lebensmittel",
+    "PanningDrops": "Beute aus dem Schwenken",
+    "AvailableFood": "Verfügbare Lebensmittel",
+    "bomb-BlastRadius": "Explosionsradius: {0}",
+    "bomb-InjureRadius": "Radius der Verletzungen: {0}",
+    "bomb-BlastType": "Art der Explosion: {0}",
+    "bomb-FuseTime": "Bombenzünderzeit: {0}",
+    "HighlightMycelium": "'Hervorhebung des Myzels'",
+    "HighlightReinforcedBlocks": "'Hervorhebung von verstärkten Blöcken'",
+    "Toggle": "Umschalten {0}"
+}

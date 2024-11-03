@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/structures/0/requireLandform",
+    "value": "densecrags",
+    "file": "game:worldgen/storystructures.json",
+    "side": "Server"
+  }
+]

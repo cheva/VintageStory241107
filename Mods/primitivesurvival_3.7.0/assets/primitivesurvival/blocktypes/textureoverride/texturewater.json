@@ -1,0 +1,6 @@
+{
+  "code": "texturewater",
+  "textures": {
+    "texturewater": { "base": "primitivesurvival:block/liquid/water" }
+  }
+}

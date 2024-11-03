@@ -1,0 +1,156 @@
+{
+	"code": "switchgrass",
+	"class": "wildgrass.BlockWildgrass",
+	"variantgroups": [
+		{ "code": "growth", "states": [ "0", "1", "2", "3", "4", "5" ] },
+		{ "code": "cover", "states": [ "free", "snow" ] }
+	],
+
+	"creativeinventory": { "general": [ "*-free" ], "flora": [ "*-free" ] },
+	"attributes": {
+		"handbook": {
+			"groupBy": ["switchgrass-*"]
+		},
+		"climateColorMapForMap": "climatePlantTint",
+		"seasonColorMapForMap": "seasonalGrass",
+		"cutIntoByType": {
+			"*-0-*": null,
+			"*": "wildgrass:switchgrass-0-free"
+		},
+		"growthByType": {
+			"*-0-*": {
+				"growthChanceOnTick": 0.08,
+				"minTemp": 0,
+				"code": "wildgrass:switchgrass-1-free"
+			},
+			"*-1-*": {
+				"growthChanceOnTick": 0.06,
+				"minTemp": 0,
+				"code": "wildgrass:switchgrass-2-free"
+			},
+			"*-2-*": {
+				"growthChanceOnTick": 0.04,
+				"minTemp": 0,
+				"code": "wildgrass:switchgrass-3-free"
+			},
+			"*-3-*": {
+				"growthChanceOnTick": 0.02,
+				"minTemp": 0,
+				"code": "wildgrass:switchgrass-4-free"
+			},
+			"*-4-*": {
+				"growthChanceOnTick": 0.01,
+				"minTemp": 16,
+				"code": "wildgrass:switchgrass-5-free"
+			},
+			"*-5-*": {
+				"growthChanceOnTick": 0.08,
+				"minTemp": 0,
+				"code": "wildgrass:switchgrass-2-free"
+			}
+		},
+		"drawnHeightByType": {
+			"*-0-*": 7,
+			"*-1-*": 12,
+			"*-2-*": 24,
+			"*-3-*": 36,
+			"*-4-*": 48,
+			"*-5-*": 48
+		},
+		"allowStepWhenStuck": true
+	},
+
+	"renderpass": "OpaqueNoCull",
+	"randomDrawOffset": true,
+	"randomizeRotations": true,
+
+	"drawTypeByType": {
+		"*-snow": "JSONAndSnowLayer",
+		"*": "JSON"
+	},
+	"shapeByType": {
+		"*-0-*": { "base": "block/switchgrass/switchgrass-short" },
+		"*-1-*": { "base": "block/switchgrass/switchgrass-short" },
+		"*-2-*": { "base": "block/switchgrass/switchgrass-short" },
+		"*-3-*": { "base": "block/switchgrass/switchgrass-tall"},
+		"*-4-*": { "base": "block/switchgrass/switchgrass-tall"},
+		"*-5-*": { "base": "block/switchgrass/switchgrass-tall-flowering"}
+	},
+	"texturesByType": {
+		"*-5-*": {
+			"grass": { "base": "block/plant/switchgrass/switchgrass-4" },
+			"flowers": { "base": "block/plant/switchgrass/switchgrass-flowers" }
+		},
+		"*": {
+			"grass": { "base": "block/plant/switchgrass/switchgrass-{growth}"}
+		}
+	},
+
+	"blockmaterial": "Plant",
+	"sounds": {
+		"place": "game:block/plant",
+		"break": "game:block/plant",
+		"hit": "game:block/plant",
+		"walkByType": { "*-snow": "game:walk/snow" }
+	},
+	"rainPermeable": true,
+	"materialDensity": 200,
+	"combustibleProps": {
+		"burnTemperature": 600,
+		"burnDuration": 8
+	},
+	"walkspeedmultiplierByType": {
+		"*-0-*": 1.0,
+		"*-1-*": 1.0,
+		"*-2-*": 0.75,
+		"*-3-*": 0.625,
+		"*": 0.5
+	},
+	"dropsByType": {
+		"*-0-*": [],
+		"*-1-*": [ 
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 1 }, "tool": "knife" },
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 1 }, "tool": "scythe" }
+		],
+		"*-2-*": [ 
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 1 }, "tool": "knife" },
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 1 }, "tool": "scythe" }
+		],
+		"*-3-*": [ 
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 2 }, "tool": "knife" },
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 2 }, "tool": "scythe" }
+		],
+		"*-4-*": [ 
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 3 }, "tool": "knife" },
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 3 }, "tool": "scythe" }
+		],
+		"*-5-*": [ 
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 3 }, "tool": "knife" },
+			{ "type": "item", "code": "game:drygrass", "quantity": { "avg": 3 }, "tool": "scythe" },
+			{ "type": "item", "code": "seeds-switchgrass", "quantity": { "avg": 1, "var": 1 } }
+		]
+	},
+
+	"resistance": 0.75,
+	"replaceableByType": {
+		"*-0-*": 6000,
+		"*-1-*": 6000,
+		"*-2-*": 6000,
+		"*": 3000
+	},
+
+	"lightAbsorption": 0,
+	"faceCullMode": "Default",
+	"sideopaque": { "all": false },
+	"sidesolid": { "all": false },
+	"collisionbox": null,
+	"selectionboxByType": {
+		"*-0-*": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.25, "z2": 1 },
+		"*-1-*": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.25, "z2": 1 },
+		"*-2-*": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.375, "z2": 1 },
+		"*-3-*": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.5, "z2": 1 },
+		"*-4-*": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.75, "z2": 1 },
+		"*-5-*": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.75, "z2": 1 }
+	},
+	"frostable": true
+}

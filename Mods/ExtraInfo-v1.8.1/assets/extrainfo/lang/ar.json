@@ -1,0 +1,21 @@
+{
+    "WorkableTemperature": "درجة الحرارة القابلة للتشغيل: {0} درجة مئوية",
+    "AlwaysWorkable": "درجة الحرارة العملية: قابلة للعمل دائمًا",
+    "RemainingResistance": "المقاومة المتبقية: {0}",
+    "Current": "حاضِر",
+    "Damage": "الضرر: {0}",
+    "One": "واحد",
+    "Fuel": "وقود",
+    "Food": "طعام",
+    "PanningDrops": "النهب من الغسل",
+    "AvailableFood": "الطعام المتوفر",
+    "bomb-BlastRadius": "نصف قطر الانفجار: {0}",
+    "bomb-InjureRadius": "نطاق الإصابة: {0}",
+    "bomb-BlastType": "نوع الانفجار: {0}",
+    "bomb-FuseTime": "وقت المصهر: {0}",
+    "HighlightMycelium": "'تسليط الضوء على الميسليوم'",
+    "HighlightReinforcedBlocks": "'تسليط الضوء على الكتل المسلحة'",
+    "Toggle": "تبديل {0}",
+    "Toggle.True": "{1} <font weight=\"bold\" color=\"#84ff84\">{0}</font>",
+    "Toggle.False": "{1} <font weight=\"bold\" color=\"#ff8484\">{0}</font>"
+}
