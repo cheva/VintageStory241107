@@ -83,8 +83,8 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 568,
-      "Y": 434
+      "X": 1123,
+      "Y": 437
     },
     "playerstats": {
       "X": -356,
@@ -97,6 +97,10 @@
     "playercharacter": {
       "X": -3,
       "Y": 438
+    },
+    "toolmodeselect127643, 114, 127619": {
+      "X": 649,
+      "Y": 234
     }
   },
   "stringSettings": {
@@ -187,7 +191,7 @@
     "showentitydebuginfo": false,
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
-    "showCoordinateHud": false,
+    "showCoordinateHud": true,
     "wavingStuff": false,
     "renderMetaBlocks": false,
     "ambientParticles": true,
@@ -232,7 +236,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.33867332,
+    "sepiaLevel": 0.36804843,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
