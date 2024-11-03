@@ -1,84 +1,105 @@
-3.11.2024 15:51:59 [Notification] Client logger started.
-3.11.2024 15:51:59 [Notification] Game Version: v1.19.8 (Stable)
-3.11.2024 15:51:59 [Notification] Process path: C:\Games\Vintage Story v1.20.0-pre.6\PlayVintageStory.exe
-3.11.2024 15:51:59 [Notification] Operating System: Windows 10.0.19045.0
-3.11.2024 15:51:59 [Notification] CPU Cores: 4
-3.11.2024 15:51:59 [Notification] Available RAM: 16239 MB
-3.11.2024 15:52:00 [Notification] OpenAL Initialized. Available Mono/Stereo Sources: 255/1
-3.11.2024 15:52:00 [Notification] Graphics Card Vendor: Intel
-3.11.2024 15:52:00 [Notification] Graphics Card Version: 3.3.0 - Build 31.0.101.2115
-3.11.2024 15:52:00 [Notification] Graphics Card Renderer: Intel(R) HD Graphics 520
-3.11.2024 15:52:00 [Notification] Graphics Card ShadingLanguageVersion: 3.30 - Build 31.0.101.2115
-3.11.2024 15:52:00 [Notification] GL.MaxVertexUniformComponents: 4096
-3.11.2024 15:52:00 [Notification] GL.MaxUniformBlockSize: 65536
-3.11.2024 15:52:00 [Notification] C# Framework: .net 7.0.20
-3.11.2024 15:52:00 [Notification] Cairo Graphics Version: 1.17.3
-3.11.2024 15:52:00 [Notification] OpenAL Version: 1.1 ALSOFT 1.23.0
-3.11.2024 15:52:00 [Notification] Zstd Version: 1.5.5
-3.11.2024 15:52:00 [Notification] Start discovering assets
-3.11.2024 15:52:00 [Notification] Found 25 base assets in category lang
-3.11.2024 15:52:00 [Notification] Found 0 base assets in category patches
-3.11.2024 15:52:00 [Notification] Found 24 base assets in category config
-3.11.2024 15:52:00 [Notification] Found 0 base assets in category worldproperties
-3.11.2024 15:52:00 [Notification] Found 48 base assets in category sounds
-3.11.2024 15:52:00 [Notification] (Re-)loaded frame buffers
-3.11.2024 15:52:00 [Notification] Found 95 base assets in category shapes
-3.11.2024 15:52:00 [Notification] Found 72 base assets in category shaders
-3.11.2024 15:52:00 [Notification] Found 16 base assets in category shaderincludes
-3.11.2024 15:52:00 [Notification] Found 133 base assets in category textures
-3.11.2024 15:52:00 [Notification] Found 4 base assets in category music
-3.11.2024 15:52:00 [Notification] Found 0 base assets in category dialog
-3.11.2024 15:52:00 [Notification] Found 417 base assets in total
-3.11.2024 15:52:00 [Notification] Loading sounds
-3.11.2024 15:52:00 [Notification] Loaded Shaderprogramm for render pass .
-3.11.2024 15:52:00 [Notification] Waiting for async sound loading...
-3.11.2024 15:52:00 [Notification] Sounds loaded
-3.11.2024 15:52:00 [Notification] Begin loading shaders
-3.11.2024 15:52:00 [Notification] Load shaders now
-3.11.2024 15:52:00 [Notification] Loading shaders...
-3.11.2024 15:52:00 [Notification] Loaded Shaderprogramm for render pass standard.
-3.11.2024 15:52:00 [Notification] Loaded Shaderprogramm for render pass particlescube.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass particlesquad.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass sky.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass nightsky.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass woittest.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass helditem.
-3.11.2024 15:52:01 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass decals.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass final.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass gui.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass blur.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
-3.11.2024 15:52:02 [Notification] Loaded Shaderprogramm for render pass findbright.
-3.11.2024 15:52:03 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
-3.11.2024 15:52:03 [Notification] Loaded Shaderprogramm for render pass godrays.
-3.11.2024 15:52:03 [Notification] Loaded Shaderprogramm for render pass autocamera.
-3.11.2024 15:52:03 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
-3.11.2024 15:52:03 [Notification] Loaded Shaderprogramm for render pass wireframe.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass entityanimated.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass luma.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass blit.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass texture2texture.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass celestialobject.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass colorgrade.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass guigear.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass ssao.
-3.11.2024 15:52:04 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
-3.11.2024 15:52:04 [Notification] Cached session key is valid, validating with server
-3.11.2024 15:52:04 [Notification] Server validation response: Good
-3.11.2024 15:52:05 [Notification] Will search the following paths for mods:
-3.11.2024 15:52:05 [Notification]     C:\Games\Vintage Story v1.20.0-pre.6\Mods
-3.11.2024 15:52:05 [Notification]     C:\Users\dmytr\AppData\Roaming\VintagestoryData\Mods
-3.11.2024 15:52:06 [Error] [egocaribautomapmarkers] Could not resolve some dependencies:
-3.11.2024 15:52:06 [Error] [egocaribautomapmarkers]     game@1.20.0-pre - Version mismatch (has 1.19.8)
-3.11.2024 15:52:06 [Error] [blocksoverlay] Could not resolve some dependencies:
-3.11.2024 15:52:06 [Error] [blocksoverlay]     game@1.20.0-pre.6 - Version mismatch (has 1.19.8)
-3.11.2024 15:52:06 [Error] [carryon] Could not resolve some dependencies:
-3.11.2024 15:52:06 [Error] [carryon]     game@1.20.0-pre - Version mismatch (has 1.19.8)
+3.11.2024 15:58:25 [Notification] Client logger started.
+3.11.2024 15:58:25 [Notification] Game Version: v1.19.8 (Stable)
+3.11.2024 15:58:25 [Notification] Process path: C:\Games\Vintage Story v1.20.0-pre.6\PlayVintageStory.exe
+3.11.2024 15:58:25 [Notification] Operating System: Windows 10.0.19045.0
+3.11.2024 15:58:25 [Notification] CPU Cores: 4
+3.11.2024 15:58:25 [Notification] Available RAM: 16239 MB
+3.11.2024 15:58:26 [Notification] OpenAL Initialized. Available Mono/Stereo Sources: 255/1
+3.11.2024 15:58:26 [Notification] Graphics Card Vendor: Intel
+3.11.2024 15:58:26 [Notification] Graphics Card Version: 3.3.0 - Build 31.0.101.2115
+3.11.2024 15:58:26 [Notification] Graphics Card Renderer: Intel(R) HD Graphics 520
+3.11.2024 15:58:26 [Notification] Graphics Card ShadingLanguageVersion: 3.30 - Build 31.0.101.2115
+3.11.2024 15:58:26 [Notification] GL.MaxVertexUniformComponents: 4096
+3.11.2024 15:58:26 [Notification] GL.MaxUniformBlockSize: 65536
+3.11.2024 15:58:26 [Notification] C# Framework: .net 7.0.20
+3.11.2024 15:58:26 [Notification] Cairo Graphics Version: 1.17.3
+3.11.2024 15:58:26 [Notification] OpenAL Version: 1.1 ALSOFT 1.23.0
+3.11.2024 15:58:26 [Notification] Zstd Version: 1.5.5
+3.11.2024 15:58:26 [Notification] Start discovering assets
+3.11.2024 15:58:26 [Notification] Found 25 base assets in category lang
+3.11.2024 15:58:26 [Notification] Found 0 base assets in category patches
+3.11.2024 15:58:26 [Notification] Found 24 base assets in category config
+3.11.2024 15:58:26 [Notification] Found 0 base assets in category worldproperties
+3.11.2024 15:58:26 [Notification] Found 48 base assets in category sounds
+3.11.2024 15:58:26 [Notification] (Re-)loaded frame buffers
+3.11.2024 15:58:26 [Notification] Found 95 base assets in category shapes
+3.11.2024 15:58:26 [Notification] Found 72 base assets in category shaders
+3.11.2024 15:58:26 [Notification] Found 16 base assets in category shaderincludes
+3.11.2024 15:58:26 [Notification] Found 133 base assets in category textures
+3.11.2024 15:58:26 [Notification] Found 4 base assets in category music
+3.11.2024 15:58:26 [Notification] Found 0 base assets in category dialog
+3.11.2024 15:58:26 [Notification] Found 417 base assets in total
+3.11.2024 15:58:26 [Notification] Loading sounds
+3.11.2024 15:58:26 [Notification] Loaded Shaderprogramm for render pass .
+3.11.2024 15:58:26 [Notification] Sounds loaded
+3.11.2024 15:58:26 [Notification] Begin loading shaders
+3.11.2024 15:58:26 [Notification] Load shaders now
+3.11.2024 15:58:26 [Notification] Loading shaders...
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass standard.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass particlescube.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass sky.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass nightsky.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass woittest.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+3.11.2024 15:58:27 [Notification] Loaded Shaderprogramm for render pass helditem.
+3.11.2024 15:58:28 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+3.11.2024 15:58:28 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+3.11.2024 15:58:28 [Notification] Loaded Shaderprogramm for render pass decals.
+3.11.2024 15:58:28 [Notification] Loaded Shaderprogramm for render pass final.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass gui.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass blur.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass findbright.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass godrays.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass autocamera.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+3.11.2024 15:58:29 [Notification] Loaded Shaderprogramm for render pass wireframe.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass luma.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass blit.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+3.11.2024 15:58:30 [Notification] Loaded Shaderprogramm for render pass guigear.
+3.11.2024 15:58:31 [Notification] Loaded Shaderprogramm for render pass ssao.
+3.11.2024 15:58:31 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+3.11.2024 15:58:31 [Notification] Cached session key is valid, validating with server
+3.11.2024 15:58:31 [Notification] Server validation response: Good
+3.11.2024 15:58:32 [Notification] Will search the following paths for mods:
+3.11.2024 15:58:32 [Notification]     C:\Games\Vintage Story v1.20.0-pre.6\Mods
+3.11.2024 15:58:32 [Notification]     C:\Users\dmytr\AppData\Roaming\VintagestoryData\Mods
+3.11.2024 15:58:32 [Error] [JuicyOres-v1.0.0] An exception was thrown trying to to load the ModInfo:
+3.11.2024 15:58:32 [Error] [JuicyOres-v1.0.0] Exception: After parsing a value an unexpected character was encountered: ". Path 'version', line 8, position 2.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue(Boolean ignoreComments)
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Vintagestory.Common.ModContainer.LoadModInfo(ModCompilationContext compilationContext, ModAssemblyLoader loader)
+3.11.2024 15:58:32 [Error] [primitivesurvival_3.7.0] An exception was thrown trying to to load the ModInfo:
+3.11.2024 15:58:32 [Error] [primitivesurvival_3.7.0] Exception: After parsing a value an unexpected character was encountered: ". Path 'dependencies', line 9, position 2.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue(Boolean ignoreComments)
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Vintagestory.Common.ModContainer.LoadModInfo(ModCompilationContext compilationContext, ModAssemblyLoader loader)

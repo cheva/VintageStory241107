@@ -1,10 +1,10 @@
-3.11.2024 15:51:59 [Debug] Creating game window with window mode Fullscreen
-3.11.2024 15:52:00.331 [VerboseDebug] Loadsounds, found 48 sounds
-3.11.2024 15:52:05.911 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSCreativeMod.dll
-3.11.2024 15:52:05.971 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSCreativeMod.dll
-3.11.2024 15:52:05.999 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSEssentials.dll
-3.11.2024 15:52:06.008 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSEssentials.dll
-3.11.2024 15:52:06.011 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSSurvivalMod.dll
-3.11.2024 15:52:06.022 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSSurvivalMod.dll
-3.11.2024 15:52:06.201 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
-3.11.2024 15:52:37 [Debug] After gamewindow.Run()
+3.11.2024 15:58:26 [Debug] Creating game window with window mode Fullscreen
+3.11.2024 15:58:26.835 [VerboseDebug] Loadsounds, found 48 sounds
+3.11.2024 15:58:32.267 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSCreativeMod.dll
+3.11.2024 15:58:32.335 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSCreativeMod.dll
+3.11.2024 15:58:32.356 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSEssentials.dll
+3.11.2024 15:58:32.368 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSEssentials.dll
+3.11.2024 15:58:32.370 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSSurvivalMod.dll
+3.11.2024 15:58:32.383 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\Vintage Story v1.20.0-pre.6\Mods\VSSurvivalMod.dll
+3.11.2024 15:58:32.545 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
+3.11.2024 15:58:51 [Debug] After gamewindow.Run()
