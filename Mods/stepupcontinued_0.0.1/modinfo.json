@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "side": "Client",
+  "modid": "stepupcontinued",
+  "name": "StepUp (continued)",
+  "authors": [ "CopyGirl, SpearAndFang" ],
+  "description": "Automatically step up single blocks without jumping",
+  "version": "0.0.1",
+  "dependencies": {}
+}
