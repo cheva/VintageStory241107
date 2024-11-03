@@ -1,0 +1,188 @@
+3.11.2024 15:32:31 [Notification] Client logger started.
+3.11.2024 15:32:31 [Notification] Game Version: v1.19.8 (Stable)
+3.11.2024 15:32:31 [Notification] Process path: C:\Games\Vintage Story v1.20.0-pre.6\PlayVintageStory.exe
+3.11.2024 15:32:31 [Notification] Operating System: Windows 10.0.19045.0
+3.11.2024 15:32:31 [Notification] CPU Cores: 4
+3.11.2024 15:32:31 [Notification] Available RAM: 16239 MB
+3.11.2024 15:32:32 [Notification] OpenAL Initialized. Available Mono/Stereo Sources: 255/1
+3.11.2024 15:32:32 [Notification] Graphics Card Vendor: Intel
+3.11.2024 15:32:32 [Notification] Graphics Card Version: 3.3.0 - Build 31.0.101.2115
+3.11.2024 15:32:32 [Notification] Graphics Card Renderer: Intel(R) HD Graphics 520
+3.11.2024 15:32:32 [Notification] Graphics Card ShadingLanguageVersion: 3.30 - Build 31.0.101.2115
+3.11.2024 15:32:32 [Notification] GL.MaxVertexUniformComponents: 4096
+3.11.2024 15:32:32 [Notification] GL.MaxUniformBlockSize: 65536
+3.11.2024 15:32:32 [Notification] C# Framework: .net 7.0.20
+3.11.2024 15:32:32 [Notification] Cairo Graphics Version: 1.17.3
+3.11.2024 15:32:32 [Notification] OpenAL Version: 1.1 ALSOFT 1.23.0
+3.11.2024 15:32:32 [Notification] Zstd Version: 1.5.5
+3.11.2024 15:32:32 [Notification] Start discovering assets
+3.11.2024 15:32:32 [Notification] Found 25 base assets in category lang
+3.11.2024 15:32:32 [Notification] Found 0 base assets in category patches
+3.11.2024 15:32:32 [Notification] Found 24 base assets in category config
+3.11.2024 15:32:32 [Notification] Found 0 base assets in category worldproperties
+3.11.2024 15:32:32 [Notification] Found 48 base assets in category sounds
+3.11.2024 15:32:32 [Notification] Found 95 base assets in category shapes
+3.11.2024 15:32:32 [Notification] Found 72 base assets in category shaders
+3.11.2024 15:32:32 [Notification] Found 16 base assets in category shaderincludes
+3.11.2024 15:32:32 [Notification] Found 133 base assets in category textures
+3.11.2024 15:32:32 [Notification] Found 4 base assets in category music
+3.11.2024 15:32:32 [Notification] Found 0 base assets in category dialog
+3.11.2024 15:32:32 [Notification] Found 417 base assets in total
+3.11.2024 15:32:32 [Notification] Loading sounds
+3.11.2024 15:32:32 [Notification] (Re-)loaded frame buffers
+3.11.2024 15:32:32 [Notification] Loaded Shaderprogramm for render pass .
+3.11.2024 15:32:32 [Notification] Sounds loaded
+3.11.2024 15:32:32 [Notification] Begin loading shaders
+3.11.2024 15:32:32 [Notification] Load shaders now
+3.11.2024 15:32:32 [Notification] Loading shaders...
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass standard.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass particlescube.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass sky.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass nightsky.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass woittest.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+3.11.2024 15:32:33 [Notification] Loaded Shaderprogramm for render pass helditem.
+3.11.2024 15:32:34 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+3.11.2024 15:32:35 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+3.11.2024 15:32:35 [Notification] Loaded Shaderprogramm for render pass decals.
+3.11.2024 15:32:35 [Notification] Loaded Shaderprogramm for render pass final.
+3.11.2024 15:32:35 [Notification] Loaded Shaderprogramm for render pass gui.
+3.11.2024 15:32:35 [Notification] Loaded Shaderprogramm for render pass blur.
+3.11.2024 15:32:36 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+3.11.2024 15:32:36 [Notification] Loaded Shaderprogramm for render pass findbright.
+3.11.2024 15:32:36 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+3.11.2024 15:32:36 [Notification] Loaded Shaderprogramm for render pass godrays.
+3.11.2024 15:32:36 [Notification] Loaded Shaderprogramm for render pass autocamera.
+3.11.2024 15:32:36 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+3.11.2024 15:32:37 [Notification] Loaded Shaderprogramm for render pass wireframe.
+3.11.2024 15:32:37 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+3.11.2024 15:32:37 [Notification] Loaded Shaderprogramm for render pass luma.
+3.11.2024 15:32:37 [Notification] Loaded Shaderprogramm for render pass blit.
+3.11.2024 15:32:37 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+3.11.2024 15:32:37 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass guigear.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass ssao.
+3.11.2024 15:32:38 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+3.11.2024 15:32:38 [Notification] Cached session key is invalid, require login
+3.11.2024 15:32:59 [Notification] Will search the following paths for mods:
+3.11.2024 15:32:59 [Notification]     C:\Games\Vintage Story v1.20.0-pre.6\Mods
+3.11.2024 15:32:59 [Notification]     C:\Users\dmytr\AppData\Roaming\VintagestoryData\Mods
+3.11.2024 15:33:26 [Notification] (Re-)loaded frame buffers
+3.11.2024 15:33:26 [Notification] Loading shaders...
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass standard.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass particlescube.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass sky.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass nightsky.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass woittest.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass helditem.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+3.11.2024 15:33:26 [Notification] Loaded Shaderprogramm for render pass decals.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass final.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass gui.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass blur.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass findbright.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass godrays.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass autocamera.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+3.11.2024 15:33:27 [Notification] Loaded Shaderprogramm for render pass wireframe.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass luma.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass blit.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass guigear.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass ssao.
+3.11.2024 15:33:28 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+3.11.2024 15:34:03 [Notification] (Re-)loaded frame buffers
+3.11.2024 15:34:03 [Notification] Loading shaders...
+3.11.2024 15:34:03 [Notification] Loaded Shaderprogramm for render pass standard.
+3.11.2024 15:34:03 [Notification] Loaded Shaderprogramm for render pass particlescube.
+3.11.2024 15:34:03 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass sky.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass nightsky.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass woittest.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass helditem.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+3.11.2024 15:34:04 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+3.11.2024 15:34:05 [Notification] Loaded Shaderprogramm for render pass decals.
+3.11.2024 15:34:05 [Notification] Loaded Shaderprogramm for render pass final.
+3.11.2024 15:34:05 [Notification] Loaded Shaderprogramm for render pass gui.
+3.11.2024 15:34:05 [Notification] Loaded Shaderprogramm for render pass blur.
+3.11.2024 15:34:05 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+3.11.2024 15:34:05 [Notification] Loaded Shaderprogramm for render pass findbright.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass godrays.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass autocamera.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass wireframe.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass luma.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass blit.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+3.11.2024 15:34:06 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass guigear.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass ssao.
+3.11.2024 15:34:07 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+3.11.2024 15:34:32 [Notification] Loading shaders...
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass standard.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass particlescube.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass sky.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass nightsky.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass woittest.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+3.11.2024 15:34:32 [Notification] Loaded Shaderprogramm for render pass helditem.
+3.11.2024 15:34:33 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+3.11.2024 15:34:33 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+3.11.2024 15:34:33 [Notification] Loaded Shaderprogramm for render pass decals.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass final.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass gui.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass blur.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass findbright.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass godrays.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass autocamera.
+3.11.2024 15:34:34 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass wireframe.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass luma.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass blit.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+3.11.2024 15:34:35 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+3.11.2024 15:34:36 [Notification] Loaded Shaderprogramm for render pass guigear.
+3.11.2024 15:34:36 [Notification] Loaded Shaderprogramm for render pass ssao.
+3.11.2024 15:34:36 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+3.11.2024 15:35:15 [Notification] Exiting game now. Server running=False. Exit reason: Main screen quit button was pressed
+3.11.2024 15:35:15 [Warning] OpenAL Error during dispose of sound game:music/roots.ogg: IllegalCommand
