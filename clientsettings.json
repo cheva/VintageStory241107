@@ -18,7 +18,7 @@
     "audioDevice": null,
     "playeruid": "210419760",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin2,eyecolor:malachite,underwear:leotard,voicetype:harmonica,voicepitch:verylow,hairbase:classic,hairextra:tiedtopknot,facialexpression:very-sad,mustache:none,beard:none,haircolor:seagreen"
+    "lastSkinSelection": "baseskin:skin9,eyecolor:aquamarine,underwear:breeches,voicetype:harmonica,voicepitch:verylow,hairbase:classic,hairextra:tiedtopknot,facialexpression:kind,mustache:none,beard:brd-braid10-double,haircolor:mossgreen"
   },
   "intSettings": {
     "fpHandsFoV": 75,
@@ -131,15 +131,15 @@
     "gammaLevel": 2.2,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.2,
+    "sepiaLevel": 0.36416662,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.0,
     "previewTransparency": 0.3,
     "fpHandsYOffset": 0.0,
     "swimmingMouseSmoothing": 0.9,
     "mouseWheelSensivity": 1.0,
-    "ambientBloomLevel": 0.2,
-    "extraContrastLevel": 0.0,
+    "ambientBloomLevel": 0.0,
+    "extraContrastLevel": 0.49999994,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 1.0,
