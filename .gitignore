@@ -1,11 +1,14 @@
 *.exe
-*.dll
 *.fsh
 *.vsh
 *.ogg
-*.png
 *.svg
 *.log
+
+# Mods
+#*.dll
+#*.png
+#*.pdb
 
 assets
 assets/

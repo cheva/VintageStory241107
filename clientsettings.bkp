@@ -79,19 +79,11 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
-    },
-    "timeswitch": {
-      "KeyCode": 107,
-      "SecondKeyCode": null,
-      "Ctrl": false,
-      "Alt": false,
-      "Shift": false,
-      "OnKeyUp": false
     }
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 569,
+      "X": 568,
       "Y": 434
     },
     "playerstats": {
@@ -124,7 +116,7 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:tuba,voicepitch:verylow,hairbase:dreadlocks,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:silverchalice",
+    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:harmonica,voicepitch:verylow,hairbase:afro,hairextra:braidedup,facialexpression:sad,mustache:none,beard:none,haircolor:slategray",
     "currentHandbookCategoryCode": "stack"
   },
   "intSettings": {
@@ -153,8 +145,8 @@
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
     "musicLevel": 10,
-    "screenWidth": 1366,
-    "screenHeight": 768,
+    "screenWidth": 1280,
+    "screenHeight": 720,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
@@ -240,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3326418,
+    "sepiaLevel": 0.31526175,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
