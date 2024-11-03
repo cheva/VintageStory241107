@@ -1,0 +1,436 @@
+{
+  "Backpacks": {
+    "fendragonbcs:fbcs-shkira-copper-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-copper-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-tinbronze-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-tinbronze-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-bismuthbronze-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-bismuthbronze-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-blackbronze-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-blackbronze-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-gold-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-gold-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-silver-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-silver-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-iron-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-iron-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-meteoriciron-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-meteoriciron-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-steel-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-polotno-steel-mini": {
+      "Quantity": 10,
+      "Color": "#FDFDFD"
+    },
+    "fendragonbcs:fbcs-shkira-copper-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-copper-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-tinbronze-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-tinbronze-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-bismuthbronze-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-bismuthbronze-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-blackbronze-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-blackbronze-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-gold-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-gold-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-silver-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-silver-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-iron-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-iron-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-meteoriciron-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-meteoriciron-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-steel-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-polotno-steel-tall": {
+      "Quantity": 12,
+      "Color": "#A9DFBF"
+    },
+    "fendragonbcs:fbcs-shkira-copper-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-copper-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-tinbronze-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-tinbronze-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-bismuthbronze-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-bismuthbronze-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-blackbronze-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-blackbronze-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-gold-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-gold-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-silver-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-silver-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-iron-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-iron-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-meteoriciron-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-meteoriciron-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-steel-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-polotno-steel-basic": {
+      "Quantity": 14,
+      "Color": "#D4E6F1"
+    },
+    "fendragonbcs:fbcs-shkira-copper-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-copper-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-tinbronze-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-tinbronze-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-bismuthbronze-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-bismuthbronze-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-blackbronze-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-blackbronze-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-gold-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-gold-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-silver-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-silver-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-iron-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-iron-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-meteoriciron-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-meteoriciron-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-steel-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-polotno-steel-super": {
+      "Quantity": 16,
+      "Color": "#F4ECF7"
+    },
+    "fendragonbcs:fbcs-shkira-copper-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-copper-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-tinbronze-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-tinbronze-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-bismuthbronze-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-bismuthbronze-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-blackbronze-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-blackbronze-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-gold-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-gold-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-silver-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-silver-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-iron-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-iron-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-meteoriciron-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-meteoriciron-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-steel-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-polotno-steel-mega": {
+      "Quantity": 18,
+      "Color": "#F2D7D5"
+    },
+    "fendragonbcs:fbcs-shkira-copper-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-copper-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-tinbronze-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-tinbronze-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-bismuthbronze-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-bismuthbronze-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-blackbronze-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-blackbronze-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-gold-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-gold-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-silver-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-silver-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-iron-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-iron-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-meteoriciron-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-meteoriciron-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-shkira-steel-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    },
+    "fendragonbcs:fbcs-polotno-steel-ultra": {
+      "Quantity": 20,
+      "Color": "#FAD7A0"
+    }
+  }
+}

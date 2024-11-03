@@ -1,0 +1,561 @@
+{
+  "ChatNotifyOnWaypointCreation": false,
+  "EnableWaypointDeletionHotkey": false,
+  "ChatNotifyOnWaypointDeletion": true,
+  "EnableCustomHotkeys": false,
+  "EnableMarkOnSneak": true,
+  "EnableMarkOnInteract": true,
+  "LabelCoordinates": false,
+  "DisableAllModFeatures": true,
+  "ConfigVersion": 3.0,
+  "AutoMapMarkers": {
+    "OrganicMatter": {
+      "Resin": {
+        "Enabled": true,
+        "MarkerTitle": "Смола",
+        "MarkerColor": "darkorange",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 1
+      },
+      "Blueberry": {
+        "Enabled": false,
+        "MarkerTitle": "Лохина",
+        "MarkerColor": "midnightblue",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      },
+      "Cranberry": {
+        "Enabled": false,
+        "MarkerTitle": "Журавлина",
+        "MarkerColor": "maroon",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      },
+      "BlackCurrant": {
+        "Enabled": false,
+        "MarkerTitle": "Чорна смородина",
+        "MarkerColor": "#291B1A",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      },
+      "RedCurrant": {
+        "Enabled": false,
+        "MarkerTitle": "Червона порічка",
+        "MarkerColor": "darkred",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      },
+      "WhiteCurrant": {
+        "Enabled": false,
+        "MarkerTitle": "Біла порічка",
+        "MarkerColor": "ivory",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      },
+      "SafeMushroom": {
+        "Enabled": false,
+        "MarkerTitle": "Їстівні гриби",
+        "MarkerColor": "forestgreen",
+        "MarkerIcon": "mushroom",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "UnsafeMushroom": {
+        "Enabled": false,
+        "MarkerTitle": "Отруйні гриби",
+        "MarkerColor": "crimson",
+        "MarkerIcon": "mushroom",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "WildCrop": {
+        "Enabled": false,
+        "MarkerTitle": "Дикорослі культури",
+        "MarkerColor": "goldenrod",
+        "MarkerIcon": "grain",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      },
+      "Flower": {
+        "Enabled": false,
+        "MarkerTitle": "Квіти",
+        "MarkerColor": "fuchsia",
+        "MarkerIcon": "grain",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "Reed": {
+        "Enabled": false,
+        "MarkerTitle": "Рогіз",
+        "MarkerColor": "darkkhaki",
+        "MarkerIcon": "grain",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "Tule": {
+        "Enabled": false,
+        "MarkerTitle": "Куга",
+        "MarkerColor": "darkkhaki",
+        "MarkerIcon": "grain",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "FruitTree": {
+        "Enabled": true,
+        "MarkerTitle": "Фруктові дерева",
+        "MarkerColor": "mediumpurple",
+        "MarkerIcon": "tree",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 6
+      }
+    },
+    "SurfaceOre": {
+      "LooseOreAnthracite": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки антрациту",
+        "MarkerColor": "black",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreBlackCoal": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки кам'яного вугілля",
+        "MarkerColor": "black",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreBorax": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки бури",
+        "MarkerColor": "ghostwhite",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreBrownCoal": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки бурого вугілля",
+        "MarkerColor": "black",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreCinnabar": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки кіноварі",
+        "MarkerColor": "crimson",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreCopper": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки самородної міді",
+        "MarkerColor": "darkorange",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreGold": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки самородного золота",
+        "MarkerColor": "gold",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreLapisLazuli": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки лазуриту",
+        "MarkerColor": "royalblue",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreLead": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки галеніту",
+        "MarkerColor": "slategray",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreOlivine": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки олівіну",
+        "MarkerColor": "olivedrab",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreQuartz": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки кварцу",
+        "MarkerColor": "white",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreSilver": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки самородного срібла",
+        "MarkerColor": "silver",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreSulfur": {
+        "Enabled": false,
+        "MarkerTitle": "Шматочки сірки",
+        "MarkerColor": "khaki",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      },
+      "LooseOreTin": {
+        "Enabled": true,
+        "MarkerTitle": "Шматочки каситериту",
+        "MarkerColor": "#3C1E05",
+        "MarkerIcon": "pick",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 9
+      }
+    },
+    "DeepOre": {
+      "DeepOreAnthracite": {
+        "Enabled": true,
+        "MarkerTitle": "Антрацитова руда",
+        "MarkerColor": "black",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "DeepOreBismuth": {
+        "Enabled": true,
+        "MarkerTitle": "Бісмутинітова руда",
+        "MarkerColor": "seagreen",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 12
+      },
+      "DeepOreBlackCoal": {
+        "Enabled": true,
+        "MarkerTitle": "Бітумна руда",
+        "MarkerColor": "black",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 24
+      },
+      "DeepOreBorax": {
+        "Enabled": false,
+        "MarkerTitle": "Борна руда",
+        "MarkerColor": "ghostwhite",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 18
+      },
+      "DeepOreBrownCoal": {
+        "Enabled": true,
+        "MarkerTitle": "Лігнітна руда",
+        "MarkerColor": "black",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 24
+      },
+      "DeepOreCinnabar": {
+        "Enabled": false,
+        "MarkerTitle": "Ртутна руда",
+        "MarkerColor": "crimson",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 18
+      },
+      "DeepOreCopper": {
+        "Enabled": true,
+        "MarkerTitle": "Мідна руда",
+        "MarkerColor": "darkorange",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 16
+      },
+      "DeepOreGold": {
+        "Enabled": true,
+        "MarkerTitle": "Золота руда",
+        "MarkerColor": "gold",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 16
+      },
+      "DeepOreIron": {
+        "Enabled": true,
+        "MarkerTitle": "Лимонітова руда",
+        "MarkerColor": "maroon",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 32
+      },
+      "DeepOreLapisLazuli": {
+        "Enabled": false,
+        "MarkerTitle": "Лазуритова руда",
+        "MarkerColor": "royalblue",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 8
+      },
+      "DeepOreLead": {
+        "Enabled": false,
+        "MarkerTitle": "Галенітова руда",
+        "MarkerColor": "slategray",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 12
+      },
+      "DeepOreOlivine": {
+        "Enabled": false,
+        "MarkerTitle": "олівінової руди",
+        "MarkerColor": "olivedrab",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 32
+      },
+      "DeepOreQuartz": {
+        "Enabled": false,
+        "MarkerTitle": "кварцової руди",
+        "MarkerColor": "white",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 32
+      },
+      "DeepOreSilver": {
+        "Enabled": true,
+        "MarkerTitle": "Срібна руда",
+        "MarkerColor": "silver",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 16
+      },
+      "DeepOreSulfur": {
+        "Enabled": false,
+        "MarkerTitle": "сірчаної руди",
+        "MarkerColor": "khaki",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 18
+      },
+      "DeepOreTin": {
+        "Enabled": true,
+        "MarkerTitle": "Каситеритова руда",
+        "MarkerColor": "#3C1E05",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 12
+      },
+      "DeepOreTitanium": {
+        "Enabled": false,
+        "MarkerTitle": "Ільменітова руда",
+        "MarkerColor": "darkslategray",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 22
+      },
+      "DeepOreZinc": {
+        "Enabled": true,
+        "MarkerTitle": "Сфалеритова руда",
+        "MarkerColor": "gray",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 10
+      },
+      "DeepOreNickel": {
+        "Enabled": false,
+        "MarkerTitle": "Пентландитова руда",
+        "MarkerColor": "darkgoldenrod",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 12
+      }
+    },
+    "MiscBlocks": {
+      "BlockRedClay": {
+        "Enabled": false,
+        "MarkerTitle": "Червони глина",
+        "MarkerColor": "indianred",
+        "MarkerIcon": "vessel",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 30
+      },
+      "BlockBlueClay": {
+        "Enabled": false,
+        "MarkerTitle": "Блакитна глина",
+        "MarkerColor": "cornflowerblue",
+        "MarkerIcon": "vessel",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 30
+      },
+      "BlockFireClay": {
+        "Enabled": false,
+        "MarkerTitle": "Вогнетривка глина",
+        "MarkerColor": "firebrick",
+        "MarkerIcon": "vessel",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 30
+      },
+      "BlockPeat": {
+        "Enabled": false,
+        "MarkerTitle": "Торф",
+        "MarkerColor": "chocolate",
+        "MarkerIcon": "rocks",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 30
+      },
+      "BlockHighFertilitySoil": {
+        "Enabled": false,
+        "MarkerTitle": "Ґрунт високої родючості",
+        "MarkerColor": "indigo",
+        "MarkerIcon": "star2",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 30
+      },
+      "BlockMeteoriticIron": {
+        "Enabled": false,
+        "MarkerTitle": "Залізний метеорит",
+        "MarkerColor": "darkorange",
+        "MarkerIcon": "star2",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 8
+      },
+      "BlockCoatingSaltpeter": {
+        "Enabled": false,
+        "MarkerTitle": "Селітра",
+        "MarkerColor": "beige",
+        "MarkerIcon": "ladder",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 24
+      },
+      "Beehive": {
+        "Enabled": true,
+        "MarkerTitle": "Бджолиний вулик",
+        "MarkerColor": "gold",
+        "MarkerIcon": "bee",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 1
+      },
+      "Translocator": {
+        "Enabled": false,
+        "MarkerTitle": "Транслокатор",
+        "MarkerColor": "darkturquoise",
+        "MarkerIcon": "spiral",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 2
+      }
+    },
+    "Traders": {
+      "TraderArtisan": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець-ремісник",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderBuildingMaterials": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець будівельними матеріалами",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderClothing": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець одягом",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderCommodities": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець сировиною",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderFoods": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець сільським господарством",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderFurniture": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець меблями",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderLuxuries": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець предметами розкоші",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderSurvivalGoods": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець товарами для виживання",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      },
+      "TraderTreasureHunter": {
+        "Enabled": true,
+        "MarkerTitle": "Торговець скарбами",
+        "MarkerColor": "yellow",
+        "MarkerIcon": "trader",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 20
+      }
+    },
+    "Custom": {
+      "CustomMarker1": {
+        "Enabled": false,
+        "MarkerTitle": "Своя точка 1",
+        "MarkerColor": "black",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 1
+      },
+      "CustomMarker2": {
+        "Enabled": false,
+        "MarkerTitle": "Своя точка 2",
+        "MarkerColor": "black",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 1
+      },
+      "CustomMarker3": {
+        "Enabled": false,
+        "MarkerTitle": "Своя точка 3",
+        "MarkerColor": "black",
+        "MarkerIcon": "circle",
+        "MarkerPinned": false,
+        "MarkerCoverageRadius": 1
+      }
+    }
+  }
+}
