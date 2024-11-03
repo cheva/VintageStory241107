@@ -8,7 +8,7 @@
     "decorativeFontName": "Lora",
     "recordingCodec": "rawv",
     "glContextVersion": "3.3",
-    "mptoken": "",
+    "mptoken": null,
     "sessionkey": "",
     "sessionsignature": "",
     "useremail": "",
@@ -17,7 +17,8 @@
     "modDbUrl": "https://mods.vintagestory.at/",
     "audioDevice": null,
     "playeruid": "210419760",
-    "playername": "Dee"
+    "playername": "Dee",
+    "lastSkinSelection": "baseskin:skin2,eyecolor:malachite,underwear:leotard,voicetype:harmonica,voicepitch:verylow,hairbase:classic,hairextra:tiedtopknot,facialexpression:very-sad,mustache:none,beard:none,haircolor:seagreen"
   },
   "intSettings": {
     "fpHandsFoV": 75,
@@ -114,7 +115,8 @@
     "scaleScreenshot": false,
     "immersiveMouseMode": false,
     "startupErrorDialog": false,
-    "hasGameServer": false
+    "hasGameServer": false,
+    "showMinimapHud": false
   },
   "floatSettings": {
     "guiScale": 1.0,

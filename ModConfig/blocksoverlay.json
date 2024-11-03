@@ -1,0 +1,19 @@
+{
+  "Colors": {
+    "statictranslocator": "#00d4ad"
+  },
+  "ScanDelay": 20000,
+  "MaxSearchRadius": 96,
+  "MaxLabelRadius": 16,
+  "CompactionDistance": null,
+  "ShouldCompactFarGroups": true,
+  "ShouldShowDebugText": true,
+  "DotScale": 1.0,
+  "LabelScale": 1.0,
+  "OutlineLightnessThreshold": 0.54901963,
+  "DebugOverlayPosition": {
+    "X": 10,
+    "Y": 10
+  },
+  "SavedGroups": null
+}
