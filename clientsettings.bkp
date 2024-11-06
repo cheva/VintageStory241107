@@ -121,7 +121,7 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:harmonica,voicepitch:verylow,hairbase:afro,hairextra:braidedup,facialexpression:sad,mustache:none,beard:none,haircolor:slategray",
+    "lastSkinSelection": "baseskin:skin18,eyecolor:dark-green,underwear:breeches,voicetype:trumpet,voicepitch:verylow,hairbase:longwithstrands,hairextra:elaboratestickbun,facialexpression:neutral,mustache:none,beard:none,haircolor:lightgray",
     "currentHandbookCategoryCode": "stack"
   },
   "intSettings": {
@@ -237,7 +237,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.34712744,
+    "sepiaLevel": 0.26337522,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -245,7 +245,7 @@
     "swimmingMouseSmoothing": 0.5,
     "mouseWheelSensivity": 1.0,
     "ambientBloomLevel": 0.0,
-    "extraContrastLevel": 0.49999994,
+    "extraContrastLevel": 0.36968982,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
